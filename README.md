@@ -1,0 +1,1 @@
+It's a Interview Task Given By MoEngage Team , where i have to integrate an web service to get it's detail ( Showing The Result In the home screen & clicking of an particular item , opens in browser where we get all the details about the Item).
