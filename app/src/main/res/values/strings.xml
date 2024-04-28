@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskMoEngage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="requestFailed">Request Failed..</string>
+    <string name="oldToNew">old-to-new</string>
+    <string name="newToOld">new-to-old</string>
+</resources>
